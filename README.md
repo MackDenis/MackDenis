@@ -2,26 +2,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>C</b>
+  - [Project on low level programming](https://github.com/MackDenis/AGUBATA-Project_on-low-level-programming.git)
 - <b>Python</b>
   - [Having good knowledge on python](https://github.com/MackDenis/python.git)
 - <b>System Engineering devops</b>
   - [System engineering devops](https://github.com/MackDenis/AGUBATA-Projects-on-system-engineering-devops.git) <b>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
+- [In progress](https://www.youtube.com/@princeagubata1685/playlists
 
 <h2> 🤳 Connect with me:</h2>
 
